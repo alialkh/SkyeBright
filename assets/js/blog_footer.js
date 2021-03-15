@@ -23,7 +23,7 @@
             "</header>" +
             "<p>In a series of new changes we are making to the skyebright company, one of our forefront of our changes has been" +
             "to revamp our online presence! We have finally made a website which is able to represent us and our interests as a company, " +
-            "and offer our patrons a view into what is it is like to be with <span class='skyblue' >skyebright</span>!</p>" +
+            "and offer our patrons a view into what is it is like to be with <span class='skyblue' >Skyebright</span>!</p>" +
             "</div>" +
             "</article>" +
 
