@@ -85,11 +85,12 @@
             "\n" +
             "<!-- Links -->\n" +
             "<section>\n" +
-            "<h2>Filler Links</h2>\n" +
+            "<h2>Links</h2>\n" +
             "<ul class=\"divided\">\n" +
-            "<li><a href=\"#\" class='footerLink'>Quam turpis feugiat dolor</a></li>\n" +
-            "<li><a href=\"#\" class='footerLink'>Amet ornare in hendrerit </a></li>\n" +
-            "<li><a href=\"#\" class='footerLink'>Semper mod quisturpis nisi</a></li>\n" +
+            "<li><a href=\"contact.html\" class='footerLink'>Contact us</a></li>\n" +
+            "<li><a href=\"assets/learnerhandbook.pdf\" class='footerLink'>Class 7 Licensing handbook </a></li>\n" +
+            "<li><a href=\"assets/DrivingSmallVehiclesHandbook _2021-01.pdf\" class='footerLink'>Additional Handbook </a></li>\n" +
+            "<li><a href=\"https://www.alberta.ca/get-drivers-licence-steps.aspx\" class='footerLink'>Steps To Getting a License</a></li>\n" +
             "</ul>\n" +
             "</section>\n" +
             "\n" +
@@ -97,61 +98,40 @@
             "<div class=\"col-3 col-6-medium col-12-small\">\n" +
             "\n" +
             "<!-- Links -->\n" +
-            "<section>\n" +
-            "<h2>Even More Filler</h2>\n" +
-            "<ul class=\"divided\">\n" +
-            "<li><a href=\"#\" class='footerLink'>Quam turpis feugiat dolor</a></li>\n" +
-            "<li><a href=\"#\" class='footerLink'>Amet ornare hendrerit lectus</a></li>\n" +
-            "<li><a href=\"#\" class='footerLink'>Semper quisturpis nisi</a></li>\n" +
-            "<li><a href=\"#\" class='footerLink'>Consequat lorem phasellus</a></li>\n" +
-            "</ul>\n" +
-            "</section>\n" +
-
-            "<!-- Links -->\n" +
             "<section style='margin-bottom:2.5em'>\n" +
-            "<h2>Business Hours</h2>\n" +
-            "<ul class=\"divided\" >\n" +
-            "<li><a href=\"#\">Monday - Sunday: 8:00am-8:00pm</a></li>\n" +
-
-
-            "</ul>\n" +
-            "</section>\n" +
-            "\n" +
-
+                "<h2>Business Hours</h2>\n" +
+                    "<ul class=\"divided\" >\n" +
+                        "<li><a class='footerLink' href=\"https://www.google.com/maps?q=skyebright+driving+academy&um=1&ie=UTF-8\">Monday - Sunday: 8:00am-8:00pm</a></li>\n" +
+                        "<li><a class='footerLink' href=\"https://www.google.com/maps?q=skyebright+driving+academy&um=1&ie=UTF-8\">Find us on Google - <i aria-hidden=true class='fab fa-google'></i></a></li>\n" +
+                    "</ul>\n" +
+                "</section>\n" +
             "</div>\n" +
+
             "<div class=\"col-6 col-12-medium imp-medium\">\n" +
-            "\n" +
-            "<!-- About -->\n" +
-            "\n" +
             "<!-- Contact -->\n" +
             "<section>\n" +
             "<h2>Get in touch</h2>\n" +
             "<div>\n" +
             "<div class=\"row\">\n" +
-            "<div class=\"col-6 col-12-small\">\n" +
-            "<dl class=\"contact\">\n" +
-            "<dt>Twitter</dt>\n" +
-            "<dd><a href=\"#\" class='footerLink'>@untitled-corp</a></dd>\n" +
-            "<dt>Facebook</dt>\n" +
-            "<dd><a href=\"#\" class='footerLink'>facebook.com/untitled</a></dd>\n" +
-            "<dt>WWW</dt>\n" +
-            "<dd><a href=\"#\" class='footerLink'>untitled.tld</a></dd>\n" +
-            "<dt>Email</dt>\n" +
-            "<dd><a href=\"#\" class='footerLink'>user@untitled.tld</a></dd>\n" +
-            "</dl>\n" +
-            "</div>\n" +
-            "<div class=\"col-6 col-12-small\">\n" +
-            "<dl class=\"contact\">\n" +
-            "<dt>Address</dt>\n" +
-            "<dd>\n" +
-            "1234 Fictional Rd<br />\n" +
-            "Nashville, TN 00000-0000<br />\n" +
-            "USA\n" +
-            "</dd>\n" +
-            "<dt>Phone</dt>\n" +
-            "<dd>(000) 000-0000</dd>\n" +
-            "</dl>\n" +
-            "</div>\n" +
+                "<div class=\"col-6 col-12-small\">\n" +
+                     "<dl class=\"contact\">\n" +
+                        "<dt>WWW</dt>\n" +
+                        "<dd><a href=\"skyebright.ca\" class='footerLink'>skyebright.ca</a></dd>\n" +
+                        "<dt>Email</dt>\n" +
+                        "<dd><a href=\"#\" class='footerLink'>skyebrightdriving@gmail.com</a></dd>\n" +
+                        // "<dd><i aria-hidden=\"true\" class='fab fa-google'></i></dd>"+ consider adding this back later
+                    "</dl>\n" +
+                "</div>\n" +
+                "<div class=\"col-6 col-12-small\">\n" +
+                    "<dl class=\"contact\">\n" +
+                        "<dt>Address</dt>\n" +
+                        "<dd>\n" +
+                            "Calgary, AB, Canada\n" +
+                        "</dd>\n" +
+                        "<dt>Phone</dt>\n" +
+                        "<dd><a style=\"\" class=\"contact\" href=\"tel:+1-403-978-7421\">(403) 978-7421</a></dd>\n" +
+                    "</dl>\n" +
+                "</div>\n" +
             "</div>\n" +
             "</div>\n" +
             "</section>\n" +
