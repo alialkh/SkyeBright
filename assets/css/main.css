@@ -1412,12 +1412,19 @@ td {
 			width: 100%;
 		}
 
+		.image-featured-section{
+			display: flex;
+			flex-direction: column;
+		}
+
 		.image.featured {
-			display: block;
-			width: 100%;
 			margin: 0 0 2.0em 0;
+			width: 20em;
+			height: 14em;
+			align-self: center;
 		}
 		.image.featured img {
+			display: inline-block;
 			width:20em;
 			height:14em;
 			object-fit: cover;
@@ -1651,7 +1658,7 @@ td {
 				display: inline-block;
 				text-align: left;
 				margin: 0 auto;
-				white-space: nowrap;
+				/*white-space: nowrap;*/
 				left: 24px;
 			}
 
@@ -1871,12 +1878,37 @@ td {
 /* Wrappers */
 
 	#header-wrapper {
+		/*background: url("images/bg01.png"), url("../../images/header.jpg") no-repeat fixed;*/
+		/*background-position: top right, center center;*/
+		/*!*background-size: auto, cover;*!*/
+		/*-moz-background-size: auto 50%;*/
+		/*-webkit-background-size: auto 50%;*/
+		/*-o-background-size: auto 50%;*/
+		/*background-size: auto 50%;*/
+		/*padding: 3em 0;*/
+
+
 		background: url("images/bg01.png"), url("../../images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
 		padding: 3em 0;
 	}
 
+	#header-wrapper2{
+		background: url("images/bg01.png"), url("../../images/header.jpg");
+		background-position: top left, center center;
+		background-size: auto, cover;
+		padding: 3em 0;
+	}
+
+	#main-header {
+		background: url("images/bg01.png"), url("../../images/header.jpg") no-repeat fixed;
+		background-position: top left, center center;
+		background-size: auto, cover;
+		padding: 1.5em 0;
+		position:static;
+
+	}
 	#main-wrapper {
 		background: #fff;
 	}
@@ -2334,6 +2366,7 @@ td {
 				line-height: 1.75em;
 				font-size: 10pt;
 				letter-spacing: 0;
+				background-attachment:scroll !important;
 			}
 
 			h2, h3, h4, h5, h6 {
@@ -2355,6 +2388,11 @@ td {
 			.image.left {
 				width: 25%;
 			}
+
+		.box.feature1 {
+			margin-left: 3em;
+			margin-right: 3em;
+		}
 
 		/* Button */
 
@@ -2521,5 +2559,11 @@ display:none
 .headerSidebar{
 	border-bottom: solid 1px #dbdbdb;
 	margin: 0 0 0.75em 0 !important;
+}
+
+.faq-answers{
+	color:black;
+	padding-left:2em;
+	font-weight: bold;
 }
 /* 	transition: 0.5s ease-out; */
