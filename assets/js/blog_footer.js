@@ -140,7 +140,7 @@
             "<div class=\"col-12\">\n" +
             "<div id=\"copyright\">\n" +
             "<ul class=\"menu\">\n" +
-            "<li>&copy; All rights reserved</li><li>Design: <a href=\"http://pages.cpsc.ucalgary.ca/~ali.alkhazaly\">Ali Al-Khaz'Aly</a></li>\n" +
+            "<li>&copy; All rights reserved</li><li>Design: <a href=\"http://pages.cpsc.ucalgary.ca/~ali.alkhazaly\">Ali Al-Khaz'Aly</a> & HTML5UP</li>\n" +
             "</ul>\n" +
             "</div>\n" +
             "</div>\n" +

@@ -1416,6 +1416,9 @@ td {
 			display: flex;
 			flex-direction: column;
 		}
+		.nograin:before{
+			background:unset !important;
+		}
 
 		.image.featured {
 			margin: 0 0 2.0em 0;
