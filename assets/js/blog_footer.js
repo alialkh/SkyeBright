@@ -21,7 +21,7 @@
             "<span class=\"date\">March 15th</span>" +
             "<h3><a href=\"#\">Our website is now live!</a></h3>" +
             "</header>" +
-            "<p>In a series of new changes we are making to the skyebright company, one of our forefront of our changes has been" +
+            "<p>In a series of new changes we are making to the skyebright company, on the forefront of our changes has been" +
             "to revamp our online presence! We have finally made a website which is able to represent us and our interests as a company, " +
             "and offer our patrons a view into what is it is like to be with <span class='skyblue' >Skyebright</span>!</p>" +
             "</div>" +
