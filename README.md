@@ -1,6 +1,6 @@
-Skyebright driving academy.
+Skyebright driving School.
 
-This a live hosting website for the skyebright driving academy in Calgary! This website
+This a live hosting website for the skyebright driving School in Calgary! This website
 is designed to be responsive, and representative of the companies interests, but even more so
 an oppurtunity for me to practice my web development skills in a real world application!
 
